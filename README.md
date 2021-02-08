@@ -1,4 +1,4 @@
-## Ashia Lewis
+# Ashia Lewis
 
 _Hapless student (sometimes) studying Physics, Biology, and Chemistry at the University of Alabama _ <br>
 
