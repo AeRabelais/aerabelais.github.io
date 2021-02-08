@@ -1,37 +1,7 @@
 ## Ashia Lewis
 
-You can use the [editor on GitHub](https://github.com/AeRabelais/Ash-s-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Hapless student (sometimes) studying Physics, Biology, and Chemistry at the University of Alabama _ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of Myself](https://github.com/AeRabelais/Ash-s-CV/blob/gh-pages/self_photograph.png)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AeRabelais/Ash-s-CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Personal Email](mailto:pantagruelspendulum@protonmail.com) + [University Email](mailto:atlewis5@crimson.ua.edu.com) + [Social](https://www.goodreads.com/user/show/25702327-ash
