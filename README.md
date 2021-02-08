@@ -1,6 +1,6 @@
 # Ashia Lewis
 
-_Hapless student (sometimes) studying Physics, Biology, and Chemistry at the University of Alabama _ <br>
+_Hapless student (sometimes) studying Physics, Biology, and Chemistry at the University of Alabama_ 
 
 ![Image of Myself](https://github.com/AeRabelais/Ash-s-CV/blob/gh-pages/self_photograph.png)
 
