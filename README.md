@@ -39,7 +39,7 @@ Research Assistant performing Computer Vision Projects for Environmental Physics
     - ensuring reproducibility 
     - collecting and cleaning datasets
     
-- Primary Tools : Python, Microsoft Azure
+- Primary Tools: Python, Microsoft Azure
 
 **Publication Co-Author and Data Analyst** _(Jan 2020 - May 2020)_ <br>
 _University of Alabama - Tuscaloosa, AL_ <br>
@@ -80,22 +80,22 @@ Research Intern using varying techniques in machine learning and general statist
 **Symbi** _(Aug 2020 - Present)_ <br>
 An AI-based pair learning program that matches students with complementary strengths to co-work on math and science problems.<br>
 
--Tools: Java, Python, Spring MVC, SQL
+- Primary Tools: Java, Python, Spring MVC, SQL
 
 **Co-Founder and Contributor to The Physics Hub** _(Deb 2018 - Present)_ <br>
 An open source physics simulations project that is being developed by physics students worldwide and aims to deliver clear and easy to understand physics simulations free for everyone! <br>
 
--Tools: Javascript, HTML
+- Primary Tools: Javascript, HTML, GitHub
 
 **MyLilLocalizer** _(Sept 2019 - Nov 2020)_ <br>
 A paired GitHub bot and application that localizes code documentation into oftentimes neglected character languages (Russian, Mandarin, Japanese, Arabic). <br>
 
--Tools: Javascript, Java, Python, Spring MVC, SQL
+- Primary Tools: Javascript, Java, Python, Spring MVC, SQL
 
 **Light Curve Simulator + Analyzer** _(Oct 2018 - April 2019)_<br>
 An application that builds light curves and analyzes the properties obtained for twin stars and clusters. <br>
 
--Tools: Java, R, Spring MVC, SQL
+- Primary Tools: Java, R, Spring MVC, SQL
 
 
 ## 🧩 Extracurricular Involvement
