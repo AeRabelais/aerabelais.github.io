@@ -7,7 +7,7 @@ _Wandering student (sometimes) studying Physics, Biology, and Chemistry at the U
 ## 💻 Technical Skillset
 
 **Languages (Years):** Java (10), Python (6), R (3), C#/C++ (3), Javascript (3), Matlab (2) <br>
-**Tools:** GitHub, Gist, SSH, React, Angular, Spring <br>
+**Tools:** GitHub, Git, SSH, React, Angular, Spring <br>
 **Subject:** ML, Data Analysis & Modelling, NLP, Computer Vision <br>
 
 ## 🎓 Education
