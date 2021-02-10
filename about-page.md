@@ -1,4 +1,4 @@
-layout: template
+layout: page
 title: "Who Am I?"
 permalink: https://aerabelais.github.io
 
