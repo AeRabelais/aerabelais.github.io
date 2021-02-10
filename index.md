@@ -75,7 +75,7 @@ Research Intern using varying techniques in machine learning and general statist
 - Primary Tools: Python, R, Google Colab, R Studio
  
 
-## Solo Projects
+## 📓 Solo Projects
 
 **Symbi** _(Aug 2020 - Present)_ <br>
 An AI-based pair learning program that matches students with complementary strengths to co-work on math and science problems.<br>
