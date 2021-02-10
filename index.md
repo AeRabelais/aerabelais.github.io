@@ -4,13 +4,6 @@ _Wandering student (sometimes) studying Physics, Biology, and Chemistry at the U
 
 [Personal Email](mailto:pantagruelspendulum@protonmail.com) + [University Email](mailto:atlewis5@crimson.ua.edu.com) + [Social](https://www.goodreads.com/user/show/25702327-ash)
 
-### Table of Contents 
-
-1. [CV](#cv)
-
-
-# CV 
-
 ## 💻 Technical Skillset
 
 **Languages (Years):** Java (10), Python (6), R (3), C#/C++ (3), Javascript (3), Matlab (2) <br>
