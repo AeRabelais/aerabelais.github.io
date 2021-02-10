@@ -9,7 +9,7 @@ _Wandering student (sometimes) studying Physics, Biology, and Chemistry at the U
 1. [CV](#cv)
 
 
-#CV 
+# CV 
 
 ## 💻 Technical Skillset
 
