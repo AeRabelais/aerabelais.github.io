@@ -1,34 +1,17 @@
-# Ashia Lewis
+# Ashia Lewis-Livaudais
 
-_Wandering student (sometimes) studying Physics, Biology, and Chemistry at the University of Alabama_ 
+_Wandering engineer (sometimes) studying Machine Learning, Graph Theory, and Physics._ 
 
-[Personal Email](mailto:pantagruelspendulum@protonmail.com) + [University Email](mailto:atlewis5@crimson.ua.edu.com) + [Social](https://www.goodreads.com/user/show/25702327-ash)
+[Personal Email](mailto:pantagruelspendulum@protonmail.com) + [Socials](https://twitter.com/garg_barg) + [Books!](https://www.goodreads.com/user/show/25702327-ash)
 
-## 💻 Technical Skillset
+## 🌱 Technical Skillset
 
 **Languages (Years):** Java (10), Python (6), R (3), C#/C++ (3), Javascript (3), Matlab (2) <br>
 **Tools:** GitHub, Git, SSH, React, Angular, Spring <br>
 **Subject:** ML, Data Analysis & Modelling, NLP, Computer Vision <br>
 
-## 🎓 Education
 
-**Bachelor of Science** in Physics and Biology, Minor in Chemistry <br>
-[University of Alabama](https://www.ua.edu/) - Tuscaloosa, Alabama, USA _(Present)_
-
-## 🏆 Awards and Honors
-
-**Vulcan Academic Elite Scholar** _( Aug 2017)_ <br>
-Received the most selective scholarship package offered to one incoming student each year.
-
-**University Fellows Experience** _(Present)_ <br>
-Accepted into the Honors College University Fellows Experience
-- Accepts <1% of applicants
-
-**Builder of the Most Beautiful Bears** _(Apr 2017)_ <br>
-Received recognition for being the most superior Bear Builder among my coworkers at Dallas' Build-A-Bear Workshop.
-
-
-## 📍 Experience
+## 🪲 Experience
 
 **NYU Center for Data Science Research Intern** _(Nov 2020 - Present)_<br>
 _NYU Center for Data Science - New York City, New York_ <br>
@@ -75,7 +58,7 @@ Research Intern using varying techniques in machine learning and general statist
 - Primary Tools: Python, R, Google Colab, R Studio
  
 
-## Solo Projects
+## ✳️ Publications
 
 **Symbi** _(Aug 2020 - Present)_ <br>
 An AI-based pair learning program that matches students with complementary strengths to co-work on math and science problems.<br>
@@ -98,7 +81,7 @@ An application that builds light curves and analyzes the properties obtained for
 - Primary Tools: Java, R, Spring MVC, SQL
 
 
-## 🧩 Extracurricular Involvement
+## 🧩 Projects and Involvements
 
 **Black Girls Code** _(June 2016 - Present)_ <br>
 Mentor and project volunteer to young girls with an interest in computer engineering, programming, and general technology.
@@ -118,22 +101,24 @@ Co-Founder and Developer
 
 - Develop software, applications, and web development products at no-cost for start-up companies focused on some aspect of conservation. 
 
+## 📗 Education
 
-##  💼 Employment History
+**Bachelor of Science** in Physics and Biology, Minor in Chemistry <br>
+[University of Alabama](https://www.ua.edu/) - Tuscaloosa, Alabama, USA _(Present)_
 
-**Independent Tutor** _(2013 - Present)_ <br>
-Tutor my peers on the following subjects: Algebra, Calculus 1 - 3, Statistics, Physics, Computer Science, General Biology
+## 🦚 Awards and Honors
 
-**Russian Language Localization** _(Apr 2017 - Present)_ <br>
-Translate novels, short stories, poetry, and comics written originally written in Russian, French, or Spanish to English
+**Vulcan Academic Elite Scholar** _( Aug 2017)_ <br>
+Received the most selective scholarship package offered to one incoming student each year.
 
-**BREC Conservation Center Zoology and Conservation Speaker** _(20115 - 2016)_ <br>
-Coordinate tours for children and give educational talks on zoology or conservation.
+**University Fellows Experience** _(Present)_ <br>
+Accepted into the Honors College University Fellows Experience
+- Accepts <1% of applicants
 
-**Build-A-Bear Workshop** _(2015 - 2017)_ <br>
-Builder of the Most Beautiful Bears 
+**Builder of the Most Beautiful Bears** _(Apr 2017)_ <br>
+Received recognition for being the most superior Bear Builder among my coworkers at Dallas' Build-A-Bear Workshop.
 
-## 💬 Languages
+## 🦜 Languages
 
 **English:** Native;
 **Russian:** B2;
