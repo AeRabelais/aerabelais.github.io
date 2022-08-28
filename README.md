@@ -1,4 +1,4 @@
-# Ashia Livaudais-Lewis
+# Ashia Lewis
 
 _Wandering engineer (sometimes) studying Machine Learning, Graph Theory, and Physics._ 
 
