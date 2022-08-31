@@ -4,6 +4,8 @@ _Wandering engineer (sometimes) studying Machine Learning, Graph Theory, and Phy
 
 [Personal Email](mailto:pantagruelspendulum@protonmail.com) + [Socials](https://twitter.com/garg_barg) + [Books!](https://www.goodreads.com/user/show/25702327-ash)
 
+[About](https://aerabelais.github.io/about/)
+
 ## 🌱 Technical Skillset
 
 **Languages (Years):** Java (10), Python (6), R (3), C#/C++ (3), Javascript (3), Matlab (2) <br>
